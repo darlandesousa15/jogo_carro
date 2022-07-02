@@ -1,7 +1,7 @@
 let xCarros = [550, 550, 550, 550, 550, 550];
 let yCarros = [97, 40, 149, 210, 262, 320];
-let velocidadeCarros = [5, 7, 6, 3, 7, 4];
-let possiçãoInicialCarros = [700, 700, 600, 600, 600, 600];
+let velocidadeCarros = [8, 7, 6, 8, 7, 4];
+let possiçãoInicialCarros = [700, 650, 600, 650, 600, 650];
 let posicaoFinalCarro = -100;
 
 function mostraCarro(){ 
